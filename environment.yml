@@ -1,0 +1,8 @@
+name: mnist-uncertainty
+channels: !!python/tuple
+- conda-forge
+- defaults
+dependencies:
+- conda-forge::numpy=1.12.1=py35_blas_openblas_200
+- conda-forge::pip=9.0.1=py35_0
+- conda-forge::python=3.5.3=1
