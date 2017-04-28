@@ -1,3 +1,7 @@
 # domino config
 .domino
 domino.log
+results
+
+# ipython
+.ipynb_checkpoints
