@@ -9,3 +9,4 @@ Relevant articles
 - [edward mixture density networks](https://nbviewer.jupyter.org/github/blei-lab/edward/blob/master/notebooks/mixture_density_network.ipynb) [otoro](http://blog.otoro.net/2015/11/24/mixture-density-networks-with-tensorflow/)
 - [edward supervised regression](https://nbviewer.jupyter.org/github/blei-lab/edward/blob/master/notebooks/supervised_regression.ipynb)
 - [edward supervised classification](https://nbviewer.jupyter.org/github/blei-lab/edward/blob/master/notebooks/supervised_classification.ipynb)
+
